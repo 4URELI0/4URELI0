@@ -1,6 +1,9 @@
-<h1 align="center">Hi 👋, I'm Arraya Cristian</h1>
-<h3 align="center">SIC PARVIS MAGNA</h3>
+<h1 align="center">Hola, soy Cristian Arraya</h1>
+<p align=center>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=45&pause=1000&color=4095F7&random=false&width=435&lines=Unity+Video+Game+Developer" alt="Typing SVG" /></a>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Alex+Brush&size=35&duration=15000&color=F7F7F7&random=false&width=435&lines=Sic+Parvis+Magna" alt="Typing SVG" /></a>
+<p>Soy un desarrollador de videojuego algo novato pero siempre intentando aprender algo nuevo cada dia y ponerlo en practica, con el objetivo de que mi nombre y apellido esten en los creditos de un juego triple A de Insomniac Games,  Sucker Punch Productions o Naughty Dog.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=4ureli0&label=Profile%20views&color=0e75b6&style=flat" alt="4ureli0" /> </p>
 
 <h3 align="left">Connect with me:</h3>
