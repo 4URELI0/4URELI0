@@ -1,5 +1,4 @@
 <h1 align="center">Hola, soy Cristian Arraya</h1>
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=45&pause=1000&color=4095F7&random=false&width=435&lines=Unity+Video+Game+Developer" alt="Typing SVG" />
@@ -71,3 +70,10 @@
 
 
  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="4URELI0's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=4URELI0&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+
+</p>
+
+![4URELI0](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
+<br>
+</p>
