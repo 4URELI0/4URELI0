@@ -11,11 +11,12 @@
   </a>
 </p>
 
-<p>Soy un desarrollador de videojuegos algo novato pero siempre intentando aprender algo nuevo cada día y ponerlo en práctica, con el objetivo de que mi nombre y apellido estén en los créditos de un juego triple A de Insomniac Games, Sucker Punch Productions o Naughty Dog.</p>
+<p>Soy un desarrollador de videojuegos de 19 años con ganas de siempre aprender algo nuevo cada día y ponerlo en práctica, con el objetivo de que mi nombre y apellido estén en los créditos de un juego triple A de Insomniac Games, Sucker Punch Productions o Naughty Dog.</p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=4ureli0&label=Profile%20views&color=0e75b6&style=flat" alt="4ureli0" />
-</p>
+> *Estudiando y practicando para el motor grafico Unreal Engine*
+
+> *Aprendiendo lo basico de la cyberseguridad y en un futuro usar kali linux*
+
 
 <p align="center">
   <a href="https://github.com/4URELI0?tab=repositories&sort=stargazers">
@@ -49,8 +50,10 @@
 <p align="center">
   <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=4URELI0&hide_border=true&theme=nightowl" />
 </p>
+
 <p align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=4URELI0&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> 
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=4URELI0&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=radical" /> 
+  
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4URELI0&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
 </p>
 
