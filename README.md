@@ -11,6 +11,11 @@
   </a>
 </p>
 
+<div>
+<p></p>
+<img src="https://profile-counter.glitch.me/4URELI0/count.svg" alt="hit counter" align="center">
+</div>
+
 <p>Soy un desarrollador de videojuegos de 19 años con ganas de siempre aprender algo nuevo cada día y ponerlo en práctica, con el objetivo de que mi nombre y apellido estén en los créditos de un juego triple A de Insomniac Games, Sucker Punch Productions o Naughty Dog.</p>
 
 > *Estudiando y practicando para el motor grafico Unreal Engine*
