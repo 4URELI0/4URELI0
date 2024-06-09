@@ -1,8 +1,6 @@
 <h1 align="center">Hola, soy Cristian Arraya</h1>
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=45&pause=1000&color=4095F7&random=false&width=435&lines=Unity+Video+Game+Developer" alt="Typing SVG" />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=25&pause=1000&color=03FF03&random=false&width=500&height=70&lines=Video+Game+Developer" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
