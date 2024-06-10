@@ -68,11 +68,6 @@
 
 <hr/>
 
-<p align="center">
-  <a href="https://ko-fi.com/X8X48056Q">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me a Coffee at ko-fi.com" style="max-width: 100%;">
-  </a>
-</p>
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=4URELI0&style=plastic&label=Views">
