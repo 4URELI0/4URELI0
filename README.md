@@ -23,7 +23,7 @@
 
 > *Estudiando y practicando para el motor grafico Unreal Engine*
 
-> *Aprendiendo lo basico de la cyberseguridad y en un futuro usar kali linux*
+> *Aprendiendo lo basico de la seguridad informatica y en un futuro usar kali linux*
 
 
 <p align="center">
