@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Cristian Arraya</h1>
+<h1 align="center">Hola, soy Cristian</h1>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=25&pause=1000&color=03FF03&random=false&width=500&height=70&lines=Video+Game+Developer" alt="Typing SVG" /></a>
 </p>
@@ -73,12 +73,6 @@
   <img src="https://komarev.com/ghpvc/?username=4URELI0&style=plastic&label=Views">
   <img src="https://badges.pufler.dev/visits/4URELI0/4URELI0?color=black&logo=github" />
 </p>
-
-
-
- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="4URELI0's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=4URELI0&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-
 </p>
 
 ![4URELI0](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
