@@ -14,25 +14,7 @@
 <img src="https://profile-counter.glitch.me/4URELI0/count.svg" alt="hit counter" align="center">
 </div>
 
-<p>Soy un desarrollador de videojuegos de 19 años con ganas de aprender algo nuevo cada día y ponerlo en práctica, con el objetivo de que mi nombre y apellido estén en los créditos de un juego triple A de:</p>
-
-||||
-|-|:-:|-:|
-|[![Logo1.png](https://i.postimg.cc/4dDjyTDL/Logo1.png)](https://postimg.cc/Kk50pCvB)|[![Logo2.png](https://i.postimg.cc/vT5k6NMQ/Logo2.png)](https://postimg.cc/GThqWzHN)|[![Logo3.png](https://i.postimg.cc/nct6tpYM/Logo3.png)](https://postimg.cc/ThCkV8sX)|
-
-
 > *Estudiando y practicando para el motor grafico Unreal Engine*
-
-> *Aprendiendo lo basico de la seguridad informatica y en un futuro usar kali linux*
-
-
-<p align="center">
-  <a href="https://github.com/4URELI0?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/4URELI0?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/4URELI0?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/4URELI0?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
-
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
