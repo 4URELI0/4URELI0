@@ -14,7 +14,7 @@
 <img src="https://profile-counter.glitch.me/4URELI0/count.svg" alt="hit counter" align="center">
 </div>
 
-> *Estudiando y practicando para el motor grafico Unreal Engine*
+> *Estudiando y practicando Unreal Engine 4*
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
@@ -49,7 +49,6 @@
 </p>
 
 <hr/>
-
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=4URELI0&style=plastic&label=Views">
