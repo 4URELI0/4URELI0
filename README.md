@@ -14,7 +14,7 @@
 <img src="https://profile-counter.glitch.me/4URELI0/count.svg" alt="hit counter" align="center">
 </div>
 
-> *I am studying and praticing Unreal engine, Mathematics and Physical*
+> *I am studying and praticing Unreal Engine, Mathematics and Physical*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
