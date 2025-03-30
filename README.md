@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Cristian</h1>
+<h1 align="center">Hi, I am Cristian</h1>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=25&pause=1000&color=03FF03&random=false&width=500&height=70&lines=Video+Game+Developer" alt="Typing SVG" /></a>
 </p>
@@ -14,16 +14,16 @@
 <img src="https://profile-counter.glitch.me/4URELI0/count.svg" alt="hit counter" align="center">
 </div>
 
-> *Estudiando y practicando Unreal Engine 4*
+> *I am studying and praticing Unreal engine, Mathematics and Physical*
 
-<h3 align="left">Conéctate conmigo:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3Byv768OXpRqyNhCC9KAVQyA%3D%3D" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
 
-<h3 align="left">Lenguajes y herramientas:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
@@ -36,7 +36,7 @@
   </a>
 </p>
 
-<summary><b>:gear: &nbsp;Estadísticas de GitHub</b></summary>
+<summary><b>:gear: &nbsp;Statistics of Github</b></summary>
 <br/>
 <p align="center">
   <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=4URELI0&hide_border=true&theme=nightowl" />
