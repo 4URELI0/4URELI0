@@ -27,7 +27,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=unity,react,java,unreal,blender,cpp,cs,git,mysql,js)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=unity,react,java,unreal,blender,cpp,cs,git,mysql,js,css,html,nodejs,processing)](https://skillicons.dev) 
 
 <summary><b>:gear: &nbsp;Statistics of Github</b></summary>
 <br/>
