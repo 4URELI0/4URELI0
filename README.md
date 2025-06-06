@@ -25,9 +25,16 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=unity,react,java,unreal,blender,cpp,cs,git,mysql,js,css,html,nodejs,processing)](https://skillicons.dev) 
+<h3 align="center">Languages and Tools:</h3>
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,react,java,unreal,blender,cpp,cs,git,mysql,js,css,html,nodejs,processing" />
+  </a>
+</p>
+
 
 <summary><b>:gear: &nbsp;Statistics of Github</b></summary>
 <br/>
